@@ -1,0 +1,2 @@
+# qrjuanaxv
+GENERADOR DE QR JUANA
